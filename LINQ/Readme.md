@@ -4,3 +4,4 @@
 - LINQ2 - Reading Excel data; Applying AsEnumerable, Average, Where, Sum, Min, Max.
 - LINQ3 - Removing Duplicates wrt specific column using GroupBy from DataTable.
 - LINQ4 - Removing Duplicates wrt all columns using DefaultView from DataTable.
+- LINQ5 - Sorting DataTable wrt specific column values; Sorting DataTable wrt DateColumn.
