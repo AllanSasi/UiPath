@@ -10,4 +10,5 @@
 ## UI Automation - Classic UI
 - ClassicUI1 - ScreenScraping from DesktopApplication; Used FullText Scraping Method due to its efficiency on this case.
 - ClassicUI2 - DataScraping from googleSearchResultPage; Stored Extracted Data into output CSV File using WriteToCSV.
-- ClassicUI3 - OCR
+- ClassicUI3 - Asking inputText & FileName from user; Entering inputText into Notepad; Changing Font Style; Saving File as per userInput.
+- ClassicUI4 - Extracting Data from rpachallengeMoviePage; Extracting content using getFullText & getOCRText.
