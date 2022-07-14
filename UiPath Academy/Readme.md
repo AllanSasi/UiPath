@@ -12,3 +12,5 @@
 - ModernUI2 - App/Web Recorder; Copying Data from Website to Notepad.
 - ModernUI3 - Using DesktopApplication & Excel; Reading inputData from Excel & Providing it into Application; Extracting outputData from Application & Storing into corresponding Excel field.
 - ModernUI4 - RPA Challenge.
+- ModernUI5 - Invoking xaml files in Main; ACME WorkItem webpage; TableExtractionWizard to get StructuredData & Storing into Excel file.
+- ModernUI6 - Reading data from ACME webpage & provide into RPA Challenge Form.
