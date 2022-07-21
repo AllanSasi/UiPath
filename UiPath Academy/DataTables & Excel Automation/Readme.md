@@ -19,3 +19,8 @@
     - Excel Application Scope, Excel Read Range, Excel Write Range.
     
 - Practice2-CalculatingLossInvoices
+  - Need to check which of the invoices in an Excel file were issued to clients in bankruptcy and calculate the sum of the invoices to be recorded as loss.
+  - Classic UI
+    - Workbook Read Range, Read CSV, Join DataTables, Filter DataTable, For Each Row in DataTable, Workbook Write Range, Workbook Write Cell.
+  - Modern UI
+    - Excel Process Scope, Use Excel File, Read Range, Read CSV, Join DataTables, Write Range, Filter, For Each Excel Row, Write Cell.
