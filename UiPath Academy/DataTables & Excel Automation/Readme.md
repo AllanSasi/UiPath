@@ -24,3 +24,7 @@
     - Workbook Read Range, Read CSV, Join DataTables, Filter DataTable, For Each Row in DataTable, Workbook Write Range, Workbook Write Cell.
   - Modern UI
     - Excel Process Scope, Use Excel File, Read Range, Read CSV, Join DataTables, Write Range, Filter, For Each Excel Row, Write Cell.
+
+- Practice3-CalculatingPercentagesOfExpenses
+  - From a list of expenses (rent, food, utilities, leisure, savings) for some card payments were made. Some transactions were done in cash. Prepare a workflow to bring all the expenses in a single file and calculate the percentages for each expense made.
+  - Excel Application Scope, Excel Read Range, Merge DataTable, For Each Row in DataTable, Get RowItem, Add to Collection, Build DataTable, Add DataRow, Workbook Write Range, Workbook Append Range.
