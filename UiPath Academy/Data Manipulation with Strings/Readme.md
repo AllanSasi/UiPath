@@ -6,3 +6,8 @@
 - Practice1 - Extract Email Address Using String Methods
   - Without using RegEx.
   - Methods used - IndexOf(), LastIndexOf(), Substring().
+- Practice2 - Extract Email Address with RegEx
+  - Using RegEx, extract email id from Template txt file.
+  - ReadTextFile; Matches-RegEx(Email).
+- Practice3 - Replace Placeholders with RegEx
+  - 
