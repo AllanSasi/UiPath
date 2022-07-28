@@ -10,4 +10,4 @@
   - Using RegEx, extract email id from Template txt file.
   - ReadTextFile; Matches-RegEx(Email).
 - Practice3 - Replace Placeholders with RegEx
-  - 
+  - Methods used - isNullOrEmpty, Replace(), Trim().
