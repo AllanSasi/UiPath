@@ -6,6 +6,7 @@
 
 ## Dictionaries & Lists
 - Dictionary_List1 - Initializing Dicttionary with Value as List of Strings; Assigning Key(Object)-Values(List) for Dictionary; Add to Collection; Remove from Collection.
+- Practice2-DictionaryAndIntegers - Initializing Dictionary with Key as int32 & Value as strings; Invoke Method to Add into Dictionary;
 
 
 
