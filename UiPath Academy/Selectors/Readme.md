@@ -7,6 +7,7 @@
   - ACME test website; WorkItems page data extraction.
   - AnchorBase, FindElement, TypeInto, GetText, Add DataRow, WriteRange.
 - Practice2 - Set Data
-  - a
+  - RPAChallenge website;
+  - Browse for File, ReadRange, ForEachRowInDataTable, AnchorBase, FindElement, TypeInto.
 - Practice3 - Highlight WFT Type Items
   - a
