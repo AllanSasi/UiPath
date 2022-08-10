@@ -10,4 +10,5 @@
   - RPAChallenge website;
   - Browse for File, ReadRange, ForEachRowInDataTable, AnchorBase, FindElement, TypeInto.
 - Practice3 - Highlight WFT Type Items
-  - a
+  - ACME test website; WorkItems page - Type Column.
+  - FindChildren, UIElement(Target property), Highlight.
